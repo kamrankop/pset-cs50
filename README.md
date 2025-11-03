@@ -1,2 +1,2 @@
-# pset-cs50
-All pset problems solved in CS50
+# regressions
+regressions done for econometrics class
